@@ -1,0 +1,14 @@
+<!--编译原理:自动生成并填充html-->
+<!-- quick-html, pascal style-->
+start //gen block
+link*3:
+	href=aa
+	href=aa
+	href=https://milkytracker.org/
+end // gen end
+
+<ol>
+	<li>sunvox</li>
+	<li>fastTracker2</li>
+	<li>milkTracker</li>
+</ol>
